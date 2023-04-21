@@ -1,6 +1,11 @@
 var readlineSync=require('readline-sync');
 var score = 0;
+<<<<<<< HEAD
 var userName = readlineSync.question("what is your name ");
+=======
+alert('are you kidding me!');
+var userName = readlineSync.question("what is your hesru ");
+>>>>>>> 18632e0377b9b4c7b56bd47fe80b5f932f6f57c8
 console.log("welcome " +userName+ " do you khow sudarshan");
 
 //function
